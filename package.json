@@ -1,0 +1,27 @@
+{
+  "name": "quill-track-changes",
+  "version": "0.1.0",
+  "description": "A track changes module for quilljs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openevocracy/quill-track-changes.git"
+  },
+  "keywords": [
+    "track",
+    "changes",
+    "quilljs"
+  ],
+  "author": "Alec Aldrine Lakra & OpenEvocracy Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openevocracy/quill-track-changes/issues"
+  },
+  "homepage": "https://github.com/openevocracy/quill-track-changes#readme",
+  "dependencies": {
+    "quill": "^1.3.7"
+  }
+}
